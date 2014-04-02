@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [pygy/underscoredeepextend](http://github.com/pygy/underscoredeepextend). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/pygy-underscoredeepextend`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # _.deepExtend 
 
 A deep extend implementation for [underscore](http://underscorejs.org/), [lodash](http://lodash.com/) and their (AFAIK non-existent) friends.
